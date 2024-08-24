@@ -1,0 +1,11 @@
+body{
+  margin: 0;
+  font-family: 'Times New Roman', Times, serif;
+  -webkit-font-smoothing:antialiased;
+  -moz-osx-font-smooting:grayscale;  
+  background: #0f1B21;
+}
+code{
+    font-family: source-code-pro,Menlo,Monaco,Consolas,'Courier New',monospace;
+    
+}
